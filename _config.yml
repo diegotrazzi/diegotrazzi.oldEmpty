@@ -13,16 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Diego Trazzi
+email: diegotrazzi@gmail.com
+description: Senior Engineer and Computer Graphics Expert with over 25 years of experience leading teams to deliver innovative, high-performance 3D and VR solutions. Skilled in managing cross-functional teams, developing proprietary frameworks, and mentoring engineers across disciplines. Proven success driving projects for Oscar-winning visual effects and advancing technology at top companies, including Apple, Unity, and Weta Digital. Proficient in C/Objective-C, Swift, Python, and real-time engines like Unity and Unreal, adept at solving complex technical challenges. Passionate about fostering collaborative environments, driving product excellence, and shaping the future of immersive AR/VR experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://diegotrazzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: trazzidiego
+github_username:  diegotrazzi
+logo: https://avatars.githubusercontent.com/u/1245572?v=4
+show_downloads: true
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Diego Trazzi
+  email: diegotrazzi@gmail.com # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://twitter.com/trazzidiego # change to your Twitter homepage
+    - https://github.com/diegotrazzi # change to your GitHub homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    - https://www.linkedin.com/in/diegotrazzi
+
 
 # Build settings
 markdown: kramdown
