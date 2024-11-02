@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Diego Trazzi
 email: diegotrazzi@gmail.com
-description: Senior Engineer and Computer Graphics Expert with over 25 years of experience leading teams to deliver innovative, high-performance 3D and VR solutions. Skilled in managing cross-functional teams, developing proprietary frameworks, and mentoring engineers across disciplines. Proven success driving projects for Oscar-winning visual effects and advancing technology at top companies, including Apple, Unity, and Weta Digital. Proficient in C/Objective-C, Swift, Python, and real-time engines like Unity and Unreal, adept at solving complex technical challenges. Passionate about fostering collaborative environments, driving product excellence, and shaping the future of immersive AR/VR experiences.
+description: Senior Engineer and Computer Graphics Expert with over 25 years of experience leading teams to deliver innovative, high-performance 3D and VR solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegotrazzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trazzidiego
 github_username:  diegotrazzi
-logo: https://avatars.githubusercontent.com/u/1245572?v=4
+logo: /assets/img/diegotrazzi.png
 show_downloads: true
 
 social:
